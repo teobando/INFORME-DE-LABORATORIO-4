@@ -12,8 +12,12 @@ NRC: 10133
 
 ***Objetivo General***
 
+Comprobar experimentalmente el Teorema de Superposición.
 
 ***Objetivo Especificos***
+1. Analizar el circuito mediante los conceptos y aplicación del Teorema de Superposición.
+2. Obtener los valores que se solicita acerca de corriente y voltaje, respetando la polaridad del voltaje y el sentido de la corriente.
+3. Anotar los datos calculados y medidos en las tablas de corriente y voltaje.
 
 **2.MARCO TEORICO**
 
