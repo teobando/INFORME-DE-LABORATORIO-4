@@ -56,11 +56,10 @@ Pues primeramente se hace cero a la fuente de voltaje de 12V haciendo corto a su
 ![image](https://user-images.githubusercontent.com/94098157/148073898-4a1bff2f-ada8-4b18-9b28-387e116a4e45.png)
 
 Despues determinamos el voltaje en VA y la correinte Ix mediante el conceptos de un circuito paralelo y serie.
-![image](https://user-images.githubusercontent.com/94098157/148075574-a7f6b04c-1d40-47a4-a463-5afafa484fd1.png)
+![image](https://user-images.githubusercontent.com/94098157/148099337-cacff086-c7a1-463d-9085-1266dd259011.png)
 
-Es importante mencionar que en un circuito en serie el volataje cae y en un circuito en paralelo el valtaje se mantiene es por esa razon que que el voltaje en VA y el volaje en la rsistecia 1.0 k ohmios es el mismo, por otra parte en la corriente Ix es lo mas aproximado a cero ya que existe una conexion donde no ahy componentes.
+Es importante mencionar que en un circuito en serie el volataje cae y en un circuito en paralelo el valtaje se mantiene es por esa razon que que el voltaje en VA y el volaje en la rsistecia 2.2 k ohmios es el mismo, por otra parte en la corriente Ix es lo mas aproximado a cero ya que existe una conexion donde no ahy componentes.
 
-![image](https://user-images.githubusercontent.com/94098157/148077174-75631a40-22d2-4262-8b45-762f891ebe73.png)
 
 De la misma manera, se hace cero a la otra fuente de voltaje de 20V.
 ![image](https://user-images.githubusercontent.com/94098157/148082186-fa9f9e29-7a54-47ee-82ee-ecf3016dee0b.png)
