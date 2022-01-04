@@ -11,9 +11,12 @@ Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando
 NRC: 10133
 
 ***Objetivo General***
+Comprobar experimentalmente el Teorema de Superposición.
 
-
-***Objetivo Especificos***
+***Objetivos Especificos***
+1. Analizar el circuito mediente el teorema de superposición 
+2. Obtener los valores solicitados respetando la polaridad del voltaje como el sentido de la corriente
+3. Anotar los resultados obtenidos y calculados en las tablas de voltaje y corriente
 
 **2.MARCO TEORICO**
 
