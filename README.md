@@ -41,13 +41,26 @@ Pues mediante el teorema de superposición se muestra como el voltaje de 12v se 
 De la misma manera, con el teorema de superposición se hace cero a la otra fuente de voltaje de 20V y siguiendo el mismo procedimiento en medir las mismas componentes como la corriente IX y el voltaje VA. 
 
 *Clculo de la corriente IX y voltaje VA analiticamente.*
+
+Pues primeramente se hace cero a la fuente de voltaje de 12V haciendo corto a su rsistencia equivalente y despues calculamos la resistencia total del circuito y su corriente.
 ![image](https://user-images.githubusercontent.com/94098157/148059554-d978328b-597f-4746-abcc-cb2214e067e5.png)
-Pues pri
+![image](https://user-images.githubusercontent.com/94098157/148073898-4a1bff2f-ada8-4b18-9b28-387e116a4e45.png)
+
+Despues determinamos el voltaje en VA y la correinte Ix mediante el conceptos de un circuito paralelo y serie.
+![image](https://user-images.githubusercontent.com/94098157/148075574-a7f6b04c-1d40-47a4-a463-5afafa484fd1.png)
+
+Es importante mencionar que en un circuito en serie el volataje cae y en un circuito en paralelo el valtaje se mantiene es por esa razon que que el voltaje en VA y el volaje en la rsistecia 1.0 k ohmios es el mismo, por otra parte en la corriente Ix es lo mas aproximado a cero ya que existe una conexion donde no ahy componentes. 
+![image](https://user-images.githubusercontent.com/94098157/148077174-75631a40-22d2-4262-8b45-762f891ebe73.png)
+
+De la misma manera, se hace cero a la otra fuente de voltaje de 20V.
+![image](https://user-images.githubusercontent.com/94098157/148082186-fa9f9e29-7a54-47ee-82ee-ecf3016dee0b.png)
+
+De la misma forma determinamos el voltaje en VA y la correinte Ix mediante el conceptos de un circuito paralelo y serie.
+
+
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-**6. VIDEO:
-https://www.youtube.com/watch?v=2HYuU1V7GG4
-
+**6. VIDEO:**
 
 **7. CONCLUSIONES**
 
