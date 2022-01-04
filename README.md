@@ -11,20 +11,21 @@ Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando
 NRC: 10133
 
 ***Objetivo General***
-
-Comprobar experimentalmente el Teorema de Superposición.
+- Analizar el voltaje y la corriente solicitados en los diferentes componentes de un circuito cerrado, mediante una práctica de laboratorio para comprender cómo funciona el teorema de superposición. 
 
 ***Objetivo Especificos***
-1. Analizar el circuito mediante los conceptos y aplicación del Teorema de Superposición.
-2. Obtener los valores que se solicita acerca de corriente y voltaje, respetando la polaridad del voltaje y el sentido de la corriente.
-3. Anotar los datos calculados y medidos en las tablas de corriente y voltaje.
+- Conocer los conceptos del teorema de superposición
+- Realizar un circuito en un protoboard siguiendo la estructura dada por el docente para analizar la corriente y voltaje mendiante el terema de superposición
+- Medir  con el multimetro valores de las corrientes de las diferentes componentes. 
+- Comparar los valores calculados con los valores medidos para  determinar mayor validez a nuestro analisis.
 
 **2.MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/94098157/148092703-7cf771bb-70e3-4cf5-a565-177203117051.png)
+
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
-![image](https://user-images.githubusercontent.com/94182617/148094711-a511dab4-8d5e-4664-95bd-4e28577b01d5.png)
-
+![image](https://user-images.githubusercontent.com/94098157/148092643-5ea01713-f0e8-438f-b8f3-d41afa9938bf.png)
 
 **4.EXPLICACIÓN DEL PROCEDIMIENTO**
 
@@ -88,8 +89,17 @@ Tabla de comparación entre las corrientes y voltajes.
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+La comprobación del teorema de superposición nos ayudó de manera experimental como calculado a determinar que es un método eficiente para obtener los valores de voltaje y corriente de zonas específicas de un circuito.
+
+![image](https://user-images.githubusercontent.com/94098157/148094825-bdb001e1-bf95-4a40-b878-336eaf488d69.png)
+
 **6. VIDEO:**
+https://www.youtube.com/watch?v=2HYuU1V7GG4
 
 **7. CONCLUSIONES**
-
+- Tener los conceptos claros en lo que ue se refiere a corriente y al definición del teorema de superposicion  nos ayudó a medir de forma precisa la correinte y voltaje en el circuito.  
+- Se pudo observar que el teorema de superposicion es un metodo muy eficiente para determinar las correintes y voltajes especificos de un circuto cerrad. 
+- Los valores analiticos, experimentales, simulados muestran una gran semejanza entre ellos, lo que signfica que la corriente y voltaje obtenidos son en cierta manera precisos.
+- 
 **8. BIBLIOGRAFÍA**
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION
