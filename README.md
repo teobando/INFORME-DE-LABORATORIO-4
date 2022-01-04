@@ -11,6 +11,7 @@ Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando
 NRC: 10133
 
 ***Objetivo General***
+
 Comprobar experimentalmente el Teorema de Superposición.
 
 ***Objetivos Especificos***
