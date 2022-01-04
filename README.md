@@ -45,7 +45,9 @@ De la misma manera, con el teorema de superposición se hace cero a la otra fuen
 Pues pri
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-**6. VIDEO:**
+**6. VIDEO:
+https://www.youtube.com/watch?v=2HYuU1V7GG4
+
 
 **7. CONCLUSIONES**
 
