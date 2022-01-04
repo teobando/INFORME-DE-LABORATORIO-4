@@ -11,7 +11,7 @@ Nombres : Martin Coronel, Jefferson Chicaiza, Tito Obando
 NRC: 10133
 
 ***Objetivo General***
-
+El objetivo de esta práctica es que comprendamos y comprovemos el teorema de superposicion mediante el circuito experimental y simulado.
 
 ***Objetivo Especificos***
 
@@ -30,5 +30,9 @@ NRC: 10133
 **6. VIDEO:**
 
 **7. CONCLUSIONES**
+
+Concluida esta práctica podemos decir que el Teorema o principio de Superposición es de mucha utilidad e importancia en los análisis de circuitos. Pues nuestro circuito contaba de dos fuentes de corriente continua. pudimos comprobar que haciendo la separación de los dos circuitos la mediciones o resultados son exactamente los mismos de manera simulada.
+
+Es recomendable primero identificar el numero y el tipo de fuentes que hay en el circuito  que  se  va  a  estudiar,  no  olvidar  que  esto  solo  aplica  con  fuentes independientes. Con las fuentes dependientes hay un procedimiento diferente. 
 
 **8. BIBLIOGRAFÍA**
