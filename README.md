@@ -17,6 +17,10 @@ NRC: 10133
 
 **2.MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/84757114/148052420-8232bee7-39fc-4920-bf69-e5c3fb198a17.png)
+
+
+
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
 **4.EXPLICACIÓN DEL PROCEDIMIENTO**
