@@ -79,7 +79,7 @@ Por último para calcular el voltaje solicitado podemos deteminar la corriente q
 
 Finalmente, realizamos las respectivas sumas algebraicas.
 
-![image](https://user-images.githubusercontent.com/94098157/148090138-471191a6-351b-44f2-83b7-7161085a80cc.png)
+![image](https://user-images.githubusercontent.com/94098157/148095243-f61c9725-04f0-41e8-bfec-b6698c8e3266.png)
 
 Tabla de comparación entre las corrientes y voltajes. 
 
@@ -100,6 +100,6 @@ https://www.youtube.com/watch?v=2HYuU1V7GG4
 - Tener los conceptos claros en lo que ue se refiere a corriente y al definición del teorema de superposicion  nos ayudó a medir de forma precisa la correinte y voltaje en el circuito.  
 - Se pudo observar que el teorema de superposicion es un metodo muy eficiente para determinar las correintes y voltajes especificos de un circuto cerrad. 
 - Los valores analiticos, experimentales, simulados muestran una gran semejanza entre ellos, lo que signfica que la corriente y voltaje obtenidos son en cierta manera precisos.
-
+- 
 **8. BIBLIOGRAFÍA**
 Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION
