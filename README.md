@@ -100,6 +100,6 @@ https://www.youtube.com/watch?v=2HYuU1V7GG4
 - Tener los conceptos claros en lo que ue se refiere a corriente y al definición del teorema de superposicion  nos ayudó a medir de forma precisa la correinte y voltaje en el circuito.  
 - Se pudo observar que el teorema de superposicion es un metodo muy eficiente para determinar las correintes y voltajes especificos de un circuto cerrad. 
 - Los valores analiticos, experimentales, simulados muestran una gran semejanza entre ellos, lo que signfica que la corriente y voltaje obtenidos son en cierta manera precisos.
-- 
+ 
 **8. BIBLIOGRAFÍA**
 Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION
