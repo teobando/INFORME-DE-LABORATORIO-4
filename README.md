@@ -23,6 +23,9 @@ Comprobar experimentalmente el Teorema de Superposición.
 
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
+![image](https://user-images.githubusercontent.com/94182617/148094711-a511dab4-8d5e-4664-95bd-4e28577b01d5.png)
+
+
 **4.EXPLICACIÓN DEL PROCEDIMIENTO**
 
 *1. Arme el circuito que se muestra en la figura 4.1.*
